@@ -12,3 +12,4 @@ Designed by Matthew Slater
 
 Tool for creating fin guide: <https://www.payloadbay.com/index.php> 
 
+Tool for modifying fin guide PDF to cad files for laser cutting into cardboard: [librecad](https://librecad.org/)
